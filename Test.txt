@@ -1,0 +1,2 @@
+Hello world
+I am a new user of git(github) and i dont know how work this.
